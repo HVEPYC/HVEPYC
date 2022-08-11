@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HVEPYC
-- 👀 I’m a person who just wishes to learn about everything Computers and Technology. I like Physics too
+- 👀 I’m a person who just wishes to learn about everything Computers and Technology. I like Physics too!
 - ✌️ Looking forward to contribute to the Open Source community, once I gain the necessary Skills for it!
 
 <!---
