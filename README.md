@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HVEPYC
+- 👋 Hi, I’m Harishankar Vinod
 - 👀 I’m a person who just wishes to learn about everything Computers and Technology!
 - ✌️ Looking forward to contribute to the Open Source community, once I gain the necessary Skills for it!
 
