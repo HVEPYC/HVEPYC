@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harishankar Vinod
 - 👀 I’m a person who just wishes to learn about everything Computers and Technology!
-- ✌️ Looking forward to contribute to the Open Source community, once I gain the necessary Skills for it!
+- ✌️ Looking forward to nice things
 
 <!---
 HVEPYC/HVEPYC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
