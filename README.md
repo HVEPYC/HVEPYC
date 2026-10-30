@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 👋 Hi, I’m Harishankar Vinod<br>- 👀 I’m a person who just wishes to learn about everything Computers and Technology!<br>- 💾 Quite into low-level architectures, and a huge Linux fan<br>- ✌️ Looking forward to nice things
 
-Link to my Blog: [hvepyc.com](hvepyc.com)
+Link to my Blog: [hvepyc.com](https://hvepyc.com)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harishankarvinod/) 
